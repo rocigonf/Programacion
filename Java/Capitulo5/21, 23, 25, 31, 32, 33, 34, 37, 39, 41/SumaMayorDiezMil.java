@@ -1,5 +1,5 @@
 /*
- * SumaMayorMil.java
+ * SumaMayorDiezMil.java
  * 
  * Este programa pide números hasta que su suma sea mayor a diez mil.
  * 
@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class SumaMayorMil {
+public class SumaMayorDiezMil {
 	
 	public static void main (String[] args) {
 		
